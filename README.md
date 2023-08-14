@@ -5,4 +5,4 @@ cd SuprpeyQuestions_taupik_otto atau juga bisa downlaod di githubnya
 npm install
 
 3. Menjalankan Aplikasi: 
-npx react-native start
+npm start
